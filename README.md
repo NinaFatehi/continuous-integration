@@ -1,2 +1,3 @@
 # continuous-integration
-Practicing CI
+This is a sample repo to practicing CI!
+
